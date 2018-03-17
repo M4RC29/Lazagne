@@ -1,0 +1,2 @@
+# Lazagne
+Hola este es mi repositorio en el cual pongo una carpeta de SP26 que facilita la obtención de contraseñas de navegadores, os invito a ir al video  https://www.youtube.com/watch?v=fUNKAcGYuOs esto usa LaZagne, no intento plagiar ningun proyecto si hay algun problema con eso encantado te contesto mi correo es : kiddfoix@gmail.com .  Yo lo uso para uso de pruebas con el USB Rubber Ducky para Windows no lo he probado para linux, mac, etc
