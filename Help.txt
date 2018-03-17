@@ -1,0 +1,3 @@
+Hola,
+Si no sabes como usarlo solo tienes que hacer click en USBkey y ya se te guardan las passwords
+Te saldra una carpeta
